@@ -1,0 +1,2 @@
+[2024-07-08 20:29:14] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/ics
+[2024-07-08 20:29:18] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/ics
