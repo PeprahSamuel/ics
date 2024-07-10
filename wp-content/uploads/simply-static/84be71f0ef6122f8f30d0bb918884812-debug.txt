@@ -2390,3 +2390,5 @@
 [2024-07-10 19:23:51] [class-ss-archive-creation-job.php:170] This task is done and there are no more tasks, time to complete the job
 [2024-07-10 19:23:51] [class-ss-archive-creation-job.php:197] Completing the job
 [2024-07-10 19:23:51] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 00:02:07
+[2024-07-10 19:59:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/ics
+[2024-07-10 19:59:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/ics
